@@ -9,3 +9,8 @@ ___
 
 # [IBM_Modulo_02.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM_Modulo_02.ipynb)
 _This notebook covers the Notes and activities from the **Module 2** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
+
+___
+
+# [IBM_Modulo_03.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM_Modulo_03.ipynb)
+_This notebook covers the Notes and activities from the **Module 3** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
