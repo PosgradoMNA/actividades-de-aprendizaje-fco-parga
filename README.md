@@ -4,20 +4,10 @@ Aqui estarán mis actividades de cada semana
 ___
 
 # [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)
-## [IBM_Modulo_01.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM_Modulo_01.ipynb)
-_This notebook covers the Notes and activities from the **Module 1** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
+## [IBM](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/tree/main/IBM)
+_This folder covers the Notes and activities of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
 
 ___
 
-## [IBM_Modulo_02.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM_Modulo_02.ipynb)
-_This notebook covers the Notes and activities from the **Module 2** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
-
-___
-
-## [IBM_Modulo_03.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM_Modulo_03.ipynb)
-_This notebook covers the Notes and activities from the **Module 3** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
-___
-
-## [IBM_Modulo_04.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM_Modulo_04.ipynb)
-_This notebook covers the Notes and activities from the **Module 4** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
-___
+## [Actividades](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/tree/main/Actividades)
+_This folder covers the Notes and activities of the course [Ciencia y analítica de datos](https://experiencia21.tec.mx/courses/320440)_ 
