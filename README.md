@@ -3,7 +3,10 @@
 Aqui estarán mis actividades de cada semana
 ___
 
-# [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)
+# [Ciencia y analítica de datos (Gpo 10) TC4029.10](https://experiencia21.tec.mx/courses/320440)
+
+___
+
 ## [IBM](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/tree/main/IBM)
 _This folder covers the Notes and activities of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
 
