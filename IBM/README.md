@@ -1,25 +1,11 @@
 ___
 
-# [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)
-## [IBM_Modulo_01.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM/IBM_Modulo-01.ipynb)
-_This notebook covers the Notes and activities from the **Module 1** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
+# Cursos IBM
 
 ___
-
-## [IBM_Modulo_02.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM/IBM_Modulo-02.ipynb)
-_This notebook covers the Notes and activities from the **Module 2** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
+## [01_PY0101EN](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/tree/main/IBM/01_PY0101EN)
+_This folder covers the Notes and activities from the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
 
 ___
-
-## [IBM_Modulo_03.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM/IBM_Modulo-03.ipynb)
-_This notebook covers the Notes and activities from the **Module 3** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
-___
-
-## [IBM_Modulo_04.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM/IBM_Modulo-04.ipynb)
-_This notebook covers the Notes and activities from the **Module 4** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
-___
-
-## [IBM_Modulo_05.ipynb](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/blob/main/IBM/IBM_Modulo-05.ipynb)
-_This notebook covers the Notes and activities from the **Module 5** of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
-___
-
+## [02_DA0101EN](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/tree/main/IBM/02_DA0101EN)
+_This folder covers the Notes and activities from the course [IBM DA0101EN Data Analysis with Python](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DA0101EN+v1/course/)_ 
