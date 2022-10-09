@@ -8,7 +8,7 @@ ___
 ___
 
 ## [IBM](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/tree/main/IBM)
-_This folder covers the Notes and activities of the IBM courses
+_This folder covers the Notes and activities of the IBM courses_
 
 ___
 
