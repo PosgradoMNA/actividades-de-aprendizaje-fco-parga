@@ -8,7 +8,7 @@ ___
 ___
 
 ## [IBM](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/tree/main/IBM)
-_This folder covers the Notes and activities of the course [IBM PY0101EN Python Basics for Data Science](https://learning.edx.org/course/course-v1:IBM+PY0101EN+2T2021/home)_ 
+_This folder covers the Notes and activities of the IBM courses
 
 ___
 
