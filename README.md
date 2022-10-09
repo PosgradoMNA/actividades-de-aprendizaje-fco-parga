@@ -5,6 +5,7 @@ ___
 
 # [Ciencia y analítica de datos (Gpo 10) TC4029.10](https://experiencia21.tec.mx/courses/320440)
 
+##Alumno: **Francisco Javier Parga Garcia**
 ___
 
 ## [IBM](https://github.com/PosgradoMNA/actividades-de-aprendizaje-fco-parga/tree/main/IBM)
